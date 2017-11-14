@@ -1,4 +1,5 @@
 # Proposal
+## Flocking for the impatient
 What do a school of fish, a drove of sheep and a flight of birds have in common? As a group they all coordinate their movement and show _emergent behavior_; they shoal and they flock.
 
 How are these animals able to do that majestic feat, continously changing direction, avoiding collisions and still form a coherent group? Are they telepaticly linked? Is there an unseen force that drives them? Or is it something much more mundane?
