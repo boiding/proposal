@@ -5,4 +5,4 @@ How are these animals able to do that majestic feat, continously changing direct
 
 [Craig Reynolds](https://www.red3d.com/cwr/) was one of the first that come up with an algorithm to simulate these animal behaviors. Reynolds named his virtual creatures _boids_ and let them follow a few simple rules. From these rules his boids showed similar behavior as seen in fish, sheep and birds.
 
-In this workshop you will recreate Reynolds algorithm, and you will do so on projected canvas sharing the habitat with other kind of boids.
+In this workshop you will recreate Reynolds algorithm. You will do this by literally getting inside the brain of your boids. You will program their motivations, gently directing them to go on their merry way. Watch their coordinated emergent behavior on the big screen and see them share their habitat with other kind of boids.
